@@ -27,9 +27,9 @@ I designed and developed this portfolio to showcase my software engineering proj
 
 https://portfolio-tawny-one-29.vercel.app/
 
-## 📸 Screenshots
+## <img width="917" height="487" alt="image" src="https://github.com/user-attachments/assets/b21a1b04-b110-4e09-842f-cbe3b184196e" />
 
-(Add portfolio screenshots here)
+
 
 ## 🔗 Repository
 
